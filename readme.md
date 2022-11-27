@@ -1,0 +1,2 @@
+Dataset link: https://www.kaggle.com/datasets/ambarish/breakhis
+The .ipynb files contain the main code that was executed for training different models and testing different hypothses concerning the dataset. The final_report file includes ensemble models, stacked ensemble model, and standalone models. The final_report_part2 file contains ensemble models, standalone models, and functions to assess patient wise score. 
